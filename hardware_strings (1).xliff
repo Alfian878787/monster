@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="316" original="/hardware_strings.xml" source-language="en" target-language="id" datatype="plaintext">
+    <body>
+      <trans-unit id="3926" identifier="f2246ef2b33555ca0aa4bb9d86200ae9">
+        <source>GPU vendor</source>
+        <target state="translated">GPU vendor</target>
+        <note>Context: hardware_gpu_vendor
+OpenGL</note>
+      </trans-unit>
+      <trans-unit id="3927" identifier="946c7e0c2f715fece22b76c2fa100617">
+        <source>GPU renderer</source>
+        <target state="translated">GPU renderer</target>
+        <note>Context: hardware_gpu_renderer</note>
+      </trans-unit>
+      <trans-unit id="3928" identifier="ed9ae1a2dba2465061aea6ef18a67ad5">
+        <source>OpenGL version</source>
+        <target state="translated">Versi OpenGL</target>
+        <note>Context: hardware_opengl_version</note>
+      </trans-unit>
+      <trans-unit id="3929" identifier="439d10cf27736114766550435cb62ce1">
+        <source>OpenGL extensions</source>
+        <target state="translated">Ekstensi OpenGL</target>
+        <note>Context: hardware_opengl_extensions</note>
+      </trans-unit>
+      <trans-unit id="3930" identifier="8297c6ea4c4337bee7f56d9907bc0c1f">
+        <source>Shader version</source>
+        <target state="translated">Shader versi</target>
+        <note>Context: hardware_shader_version</note>
+      </trans-unit>
+      <trans-unit id="3931" identifier="c7a94fdeee8a989aac4e92235b8f8dd6">
+        <source>Environment</source>
+        <target state="translated">Environment</target>
+        <note>Context: hardware_environment
+Sensors</note>
+      </trans-unit>
+      <trans-unit id="3932" identifier="54774f7bc4a2f93524d60f9ba7032a63">
+        <source>Motion</source>
+        <target state="translated">Gerak</target>
+        <note>Context: hardware_motion</note>
+      </trans-unit>
+      <trans-unit id="3933" identifier="02b38bfc2b46cb293cc3cde1b80fa1b0">
+        <source>Position</source>
+        <target state="translated">Posisi</target>
+        <note>Context: hardware_position</note>
+      </trans-unit>
+      <trans-unit id="3934" identifier="a395400a1baac031b6e7de3523a5b9ff">
+        <source>Light</source>
+        <target state="translated">Pencahayaan</target>
+        <note>Context: hardware_sensor_light</note>
+      </trans-unit>
+      <trans-unit id="3935" identifier="7714e0ddcfd71484a1df0d7e57d6692f">
+        <source>Temperature</source>
+        <target state="translated">Suhu</target>
+        <note>Context: hardware_sensor_temperature</note>
+      </trans-unit>
+      <trans-unit id="3936" identifier="03b2f542aae933fa73c51f1ff2691e49">
+        <source>Pressure</source>
+        <target state="translated">Tekanan</target>
+        <note>Context: hardware_sensor_pressure</note>
+      </trans-unit>
+      <trans-unit id="3937" identifier="78b6edea32d44df162d4d70b966eaede">
+        <source>Note: values can be in %1$s or %2$s depending on the manufacturers implementation</source>
+        <target state="translated">Catatan : Nilai dapat berupa %1$s atau %2$s mengacu pada implementasi pabrikan</target>
+        <note>Context: hardware_sensor_pressure_note</note>
+      </trans-unit>
+      <trans-unit id="3938" identifier="b8f2cad51e81075f908c036d9431c31e">
+        <source>Relative humidity</source>
+        <target state="translated">Kelembaban Relatif</target>
+        <note>Context: hardware_sensor_relative_humidity</note>
+      </trans-unit>
+      <trans-unit id="3939" identifier="ee57486e3896b6390afa83e36c615269">
+        <source>Accelerometer (including gravity)</source>
+        <target state="translated">Accelerometer (Termasuk Gravitasi)</target>
+        <note>Context: hardware_sensor_accelerometer</note>
+      </trans-unit>
+      <trans-unit id="3940" identifier="650aa922c38133058777c68c1ba3451f">
+        <source>Accelerometer linear (excluding gravity)</source>
+        <target state="translated">Accelerometer linear (tidak Termasuk grafitasi)</target>
+        <note>Context: hardware_sensor_accelerometer_linear</note>
+      </trans-unit>
+      <trans-unit id="3941" identifier="0d24f215fd06c0b8ab0f38c6a01a5679">
+        <source>Gravity</source>
+        <target state="translated">Gravitasi</target>
+        <note>Context: hardware_sensor_gravity</note>
+      </trans-unit>
+      <trans-unit id="3942" identifier="ff5f54d35d26e4e5c8fb59273c46f6c1">
+        <source>Rotation vector</source>
+        <target state="translated">Rotasi Vektor</target>
+        <note>Context: hardware_sensor_rotation_vector</note>
+      </trans-unit>
+      <trans-unit id="3943" identifier="4c4bdb010c63418e49369d92d9bf0745">
+        <source>Gyroscope</source>
+        <target state="translated">Gyroscope</target>
+        <note>Context: hardware_sensor_gyroscope</note>
+      </trans-unit>
+      <trans-unit id="3944" identifier="6cda617763a84948c2524a9089f1d096">
+        <source>Gyroscope (uncalibrated)</source>
+        <target state="translated">Gyroscope (uncalibrated)</target>
+        <note>Context: hardware_sensor_gyroscope_uncalibrated</note>
+      </trans-unit>
+      <trans-unit id="3945" identifier="d7f0c04b58360c07c88c4a4b0a7ab436">
+        <source>Step counter</source>
+        <target state="translated">Step counter</target>
+        <note>Context: hardware_sensor_step</note>
+      </trans-unit>
+      <trans-unit id="3946" identifier="a55322f2d7650de0e8ae79ffb4c3004d">
+        <source>Proximity</source>
+        <target state="translated">Proximity</target>
+        <note>Context: hardware_sensor_proximity</note>
+      </trans-unit>
+      <trans-unit id="3947" identifier="a1bb156be2078a1ff8baa43254fb2b2e">
+        <source>Magnetic field</source>
+        <target state="translated">Medan magnet</target>
+        <note>Context: hardware_sensor_magnetic_field</note>
+      </trans-unit>
+      <trans-unit id="3948" identifier="c4ca8ba07572d8659b0d521595237fdb">
+        <source>Magnetic field (uncalibrated)</source>
+        <target state="translated">Bidang magnetik (Tidak Terkalibrasi)</target>
+        <note>Context: hardware_sensor_magnetic_field_uncalibrated</note>
+      </trans-unit>
+      <trans-unit id="3949" identifier="97c70760e211f4145502cda6f24369a8">
+        <source>Geomagnetic rotation vector</source>
+        <target state="translated">Vektor rotasi geomagnetic</target>
+        <note>Context: hardware_sensor_geomagnetic_rotation_vector</note>
+      </trans-unit>
+      <trans-unit id="3950" identifier="ddac9322146babfc99bf732158ed3922">
+        <source>Game rotation vector</source>
+        <target state="translated">Vektor Rotasi Permainan</target>
+        <note>Context: hardware_sensor_game_rotation_vector</note>
+      </trans-unit>
+      <trans-unit id="3951" identifier="f818c365ce7a724383596f7e41ce4225">
+        <source>Power usage</source>
+        <target state="translated">Tenaga yang digunakan</target>
+        <note>Context: hardware_power_usage</note>
+      </trans-unit>
+      <trans-unit id="3952" identifier="56fff86b82cd644709c9622d6d02480d">
+        <source>Steps</source>
+        <target state="translated">Langkah</target>
+        <note>Context: hardware_steps</note>
+      </trans-unit>
+      <trans-unit id="3953" identifier="78df20901fcdf966a95d427dc422f0bd">
+        <source>Far</source>
+        <target state="translated">Jauh</target>
+        <note>Context: hardware_far</note>
+      </trans-unit>
+      <trans-unit id="3954" identifier="2b6d381dca6b0b0c64b7d0b8730fa2f0">
+        <source>Near</source>
+        <target state="translated">Dekat</target>
+        <note>Context: hardware_near</note>
+      </trans-unit>
+      <trans-unit id="3955" identifier="02f1ba6025c56f6d2f5b232723568d24">
+        <source>Red,Green,Blue</source>
+        <target state="translated">Merah,Hijau,Biru</target>
+        <note>Context: hardware_display_gamma_calibration_desc_one
+
+Display color
+
+No spaces after ','
+
+Each color should start uppercase</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
